@@ -12,14 +12,14 @@ export default function Sidebar({ collapsed, setCollapsed }) {
 
   async function fetchSessions() {
     try {
-      const res = await axios.get('https://lumibyte-backend.vercel.app/api/sessions')
+      const res = await axios.get('http://localhost:4000/api/sessions')
       setSessions(res.data)
     } catch (e) { console.error(e) }
   }
 
   async function newChat() {
     try {
-      const res = await axios.post('https://lumibyte-backend.vercel.app/api/sessions', {
+      const res = await axios.post('http://localhost:4000/api/sessions', {
         title: 'New Chat',
       })
       navigate(`/session/${res.data.id}`)

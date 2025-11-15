@@ -14,7 +14,7 @@ export default function ChatWindow({sessionId}) {
 
   async function fetchHistory(){
     try{
-      const res = await axios.get(`https://lumibyte-backend.vercel.app/api/sessions/${sessionId}`)
+      const res = await axios.get(`http://localhost:4000/api/sessions/${sessionId}`)
       setHistory(res.data.history || [])
     }catch(e){ console.error(e) }
   }
@@ -24,7 +24,7 @@ export default function ChatWindow({sessionId}) {
     if(!input.trim()) return
     setLoading(true)
     try{
-      const res = await axios.post(`https://lumibyte-backend.vercel.app/api/chat/${sessionId}`, { question: input })
+      const res = await axios.post(`http://localhost:4000/api/chat/${sessionId}`, { question: input })
       setHistory(prev => [...prev, res.data])
       setInput('')
     }catch(e){ console.error(e) }
