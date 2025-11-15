@@ -1,0 +1,707 @@
+[
+  {
+    "id": "07d2d182-b87c-4dfc-a264-d977e4a652ea",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:55:09.969Z",
+    "history": [
+      {
+        "id": "1763229314106",
+        "question": "hiii",
+        "response": {
+          "description": "Sales by region",
+          "table": {
+            "columns": [
+              "Region",
+              "Q1",
+              "Q2",
+              "Q3",
+              "Q4"
+            ],
+            "rows": [
+              [
+                "North",
+                12000,
+                15000,
+                13000,
+                16000
+              ],
+              [
+                "South",
+                10000,
+                11000,
+                9000,
+                14000
+              ],
+              [
+                "East",
+                8000,
+                9000,
+                9500,
+                10000
+              ],
+              [
+                "West",
+                7000,
+                8500,
+                8000,
+                9000
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:55:14.106Z"
+      },
+      {
+        "id": "1763229327481",
+        "question": "hey",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:55:27.481Z"
+      }
+    ]
+  },
+  {
+    "id": "03ae4e5d-324b-4c74-9e20-e3efb44b8985",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:52:50.951Z",
+    "history": [
+      {
+        "id": "1763229173400",
+        "question": "hii",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:52:53.400Z"
+      },
+      {
+        "id": "1763229180490",
+        "question": "hey",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:53:00.490Z"
+      }
+    ]
+  },
+  {
+    "id": "7d71eaf3-cab0-4bcc-8ae1-126206e5b311",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:49:53.265Z",
+    "history": []
+  },
+  {
+    "id": "fbb0e5ff-522b-4d16-b7c2-758ac48489d7",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:49:31.775Z",
+    "history": [
+      {
+        "id": "1763228974690",
+        "question": "hii",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:49:34.690Z"
+      },
+      {
+        "id": "1763228978694",
+        "question": "hello",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:49:38.694Z"
+      }
+    ]
+  },
+  {
+    "id": "d962f17e-187f-4426-9f6d-ce0fc8f895a9",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:48:48.883Z",
+    "history": []
+  },
+  {
+    "id": "b614ed26-9caa-404e-a315-d67d4d53cb7e",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:25:02.020Z",
+    "history": []
+  },
+  {
+    "id": "e6c51305-f7ef-4d8f-a1fd-8b63e4c0c0d7",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:24:38.209Z",
+    "history": [
+      {
+        "id": "1763227481367",
+        "question": "hii",
+        "response": {
+          "description": "Sales by region",
+          "table": {
+            "columns": [
+              "Region",
+              "Q1",
+              "Q2",
+              "Q3",
+              "Q4"
+            ],
+            "rows": [
+              [
+                "North",
+                12000,
+                15000,
+                13000,
+                16000
+              ],
+              [
+                "South",
+                10000,
+                11000,
+                9000,
+                14000
+              ],
+              [
+                "East",
+                8000,
+                9000,
+                9500,
+                10000
+              ],
+              [
+                "West",
+                7000,
+                8500,
+                8000,
+                9000
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:24:41.367Z"
+      }
+    ]
+  },
+  {
+    "id": "caa91cb5-5010-4948-8638-539136ad7659",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:17:20.708Z",
+    "history": [
+      {
+        "id": "1763227047743",
+        "question": "dil",
+        "response": {
+          "description": "Sales by region",
+          "table": {
+            "columns": [
+              "Region",
+              "Q1",
+              "Q2",
+              "Q3",
+              "Q4"
+            ],
+            "rows": [
+              [
+                "North",
+                12000,
+                15000,
+                13000,
+                16000
+              ],
+              [
+                "South",
+                10000,
+                11000,
+                9000,
+                14000
+              ],
+              [
+                "East",
+                8000,
+                9000,
+                9500,
+                10000
+              ],
+              [
+                "West",
+                7000,
+                8500,
+                8000,
+                9000
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:17:27.743Z"
+      }
+    ]
+  },
+  {
+    "id": "7544f203-0a7e-4a67-859f-20d29a2b0e7e",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:12:15.820Z",
+    "history": [
+      {
+        "id": "1763226742782",
+        "question": "hellow",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:12:22.782Z"
+      },
+      {
+        "id": "1763226748322",
+        "question": "hey",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:12:28.322Z"
+      }
+    ]
+  },
+  {
+    "id": "baf5c51d-99df-49e4-8b97-a46a1b7e9549",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:12:14.444Z",
+    "history": []
+  },
+  {
+    "id": "17638e12-882c-43de-baec-bcfcd0da3749",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:12:12.659Z",
+    "history": [
+      {
+        "id": "1763226825110",
+        "question": "hey there",
+        "response": {
+          "description": "Sales by region",
+          "table": {
+            "columns": [
+              "Region",
+              "Q1",
+              "Q2",
+              "Q3",
+              "Q4"
+            ],
+            "rows": [
+              [
+                "North",
+                12000,
+                15000,
+                13000,
+                16000
+              ],
+              [
+                "South",
+                10000,
+                11000,
+                9000,
+                14000
+              ],
+              [
+                "East",
+                8000,
+                9000,
+                9500,
+                10000
+              ],
+              [
+                "West",
+                7000,
+                8500,
+                8000,
+                9000
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:13:45.110Z"
+      }
+    ]
+  },
+  {
+    "id": "4f43ca75-f672-41e8-a765-3de1f825fb49",
+    "title": "New Chat",
+    "createdAt": "2025-11-15T17:12:03.559Z",
+    "history": [
+      {
+        "id": "1763226726409",
+        "question": "hey",
+        "response": {
+          "description": "Sales by region",
+          "table": {
+            "columns": [
+              "Region",
+              "Q1",
+              "Q2",
+              "Q3",
+              "Q4"
+            ],
+            "rows": [
+              [
+                "North",
+                12000,
+                15000,
+                13000,
+                16000
+              ],
+              [
+                "South",
+                10000,
+                11000,
+                9000,
+                14000
+              ],
+              [
+                "East",
+                8000,
+                9000,
+                9500,
+                10000
+              ],
+              [
+                "West",
+                7000,
+                8500,
+                8000,
+                9000
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:12:06.409Z"
+      }
+    ]
+  },
+  {
+    "id": "demo-session-1",
+    "title": "Demo Session",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "history": [
+      {
+        "id": "1763226705534",
+        "question": "hii",
+        "response": {
+          "description": "Top 5 languages by popularity",
+          "table": {
+            "columns": [
+              "Rank",
+              "Language",
+              "Score"
+            ],
+            "rows": [
+              [
+                1,
+                "JavaScript",
+                98
+              ],
+              [
+                2,
+                "Python",
+                95
+              ],
+              [
+                3,
+                "Java",
+                78
+              ],
+              [
+                4,
+                "C#",
+                60
+              ],
+              [
+                5,
+                "Go",
+                50
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:11:45.534Z"
+      },
+      {
+        "id": "1763226777840",
+        "question": "jkjljdfa",
+        "response": {
+          "description": "Sales by region",
+          "table": {
+            "columns": [
+              "Region",
+              "Q1",
+              "Q2",
+              "Q3",
+              "Q4"
+            ],
+            "rows": [
+              [
+                "North",
+                12000,
+                15000,
+                13000,
+                16000
+              ],
+              [
+                "South",
+                10000,
+                11000,
+                9000,
+                14000
+              ],
+              [
+                "East",
+                8000,
+                9000,
+                9500,
+                10000
+              ],
+              [
+                "West",
+                7000,
+                8500,
+                8000,
+                9000
+              ]
+            ]
+          }
+        },
+        "createdAt": "2025-11-15T17:12:57.840Z"
+      }
+    ]
+  }
+]

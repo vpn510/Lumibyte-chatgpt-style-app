@@ -1,0 +1,81 @@
+[
+  {
+    "description": "Top 5 languages by popularity",
+    "table": {
+      "columns": [
+        "Rank",
+        "Language",
+        "Score"
+      ],
+      "rows": [
+        [
+          1,
+          "JavaScript",
+          98
+        ],
+        [
+          2,
+          "Python",
+          95
+        ],
+        [
+          3,
+          "Java",
+          78
+        ],
+        [
+          4,
+          "C#",
+          60
+        ],
+        [
+          5,
+          "Go",
+          50
+        ]
+      ]
+    }
+  },
+  {
+    "description": "Sales by region",
+    "table": {
+      "columns": [
+        "Region",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "North",
+          12000,
+          15000,
+          13000,
+          16000
+        ],
+        [
+          "South",
+          10000,
+          11000,
+          9000,
+          14000
+        ],
+        [
+          "East",
+          8000,
+          9000,
+          9500,
+          10000
+        ],
+        [
+          "West",
+          7000,
+          8500,
+          8000,
+          9000
+        ]
+      ]
+    }
+  }
+]
